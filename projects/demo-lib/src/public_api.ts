@@ -2,4 +2,4 @@
  * Public API Surface of demo-lib
  */
 
-export * from "./lib/pipes";
+export * from "./lib/pipes/index"

@@ -1,1 +1,1 @@
-export * from "./reverse-string";
+export * from "./reverse-string/index";
